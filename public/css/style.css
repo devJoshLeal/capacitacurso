@@ -1,0 +1,161 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkgrey;
+}
+.clearfix{
+    clear:both
+}
+.flex-container{
+    display:grid;
+    @media (width >= 64rem) {
+        display: flex;
+    }
+}
+#container {
+    
+    margin: 0px auto;
+    border: 1px solid darkblue;
+    /* BreakPoint para dispositivos de tamaño largo */
+    @media (width >= 64rem) {
+        width: 1000px;
+    }
+}
+header{
+    background-color: royalblue;
+    text-align:center;
+    line-height: 25px;
+    color: white;
+    border-bottom: 2px solid black;
+    @media (width >= 40rem) {
+        line-height: 50px;
+    }
+}
+header h1{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: white;
+    text-shadow: 
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+     @media (width <= 48rem) {
+        font-size: 18px;
+     }
+}
+.description{
+    display: flex;
+    justify-content: center;
+    background-color: navy;
+    border-bottom: 2px solid black;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    
+}
+.description p{
+    color:white;
+    width: calc(80% - 50px);
+    @media (width <= 48rem) {
+        font-size: 15px;
+     }
+}
+#content{
+    
+    background-color: lightslategrey;
+    padding: 10px;
+    
+    @media (width >= 64rem) {
+        padding: 15px;
+        width: calc(80% - 30px);
+        order:2;
+    }
+
+
+}
+article{
+    display: grid;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    place-content: center;
+}
+article:first-child{
+    padding-top: 10px;
+}
+article h2{
+    color: navy;
+    text-shadow: 
+    -1px -1px 0 cyan,  
+     1px -1px 0 cyan,
+    -1px  1px 0 cyan,
+     1px  1px 0 cyan;
+    font-size: 30px;
+    padding-bottom: 15px;
+}
+article p{
+    color:white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+article pre{
+    background-color: gray;
+    color: white;
+}
+aside{
+    background-color: royalblue;
+    color:white;
+    min-height: 50px;
+    padding: 10px;
+    @media (width >= 64rem) {
+        padding: 15px;
+        min-height: 350px;
+        width: calc(20% - 30px);
+        order: 1;
+    }
+    
+}
+aside h2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+  text-shadow: 
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+}
+aside ul{
+    display: grid;
+    padding-left:1rem;
+    padding-right:1rem;
+}
+aside li{
+    width: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px; /* Creates the "pill" shape */
+    background-color: #ddd;
+}
+video{
+    @media (width >= 48rem) {
+        width: 640;
+        height: 480;
+    }
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align:center;
+    height: 60px;
+    line-height: 60px;
+
+}
