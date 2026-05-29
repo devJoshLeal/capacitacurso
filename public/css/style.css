@@ -152,6 +152,7 @@ aside ul{
     padding-right:1rem;
 }
 aside li{
+    cursor: pointer;
     width: auto;
     margin-top: 5px;
     margin-bottom: 5px;
