@@ -47,21 +47,23 @@ header h1{
         font-size: 18px;
      }
 }
-.description{
-    display: flex;
-    justify-content: center;
+nav{
     background-color: navy;
     border-bottom: 2px solid black;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    
+    display: flex;
+    justify-content: space-evenly;
 }
-.description p{
-    color:white;
-    width: calc(80% - 50px);
-    @media (width <= 48rem) {
-        font-size: 15px;
-     }
+nav a{
+    cursor:pointer;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+    text-align: left;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px; /* Creates the "pill" shape */
+    background-color: #ddd;
 }
 #content{
     
@@ -70,7 +72,7 @@ header h1{
     
     @media (width >= 64rem) {
         padding: 15px;
-        width: calc(80% - 30px);
+        width: calc(76% - 15px);
         order:2;
     }
 
@@ -81,7 +83,10 @@ article{
     margin-top: 15px;
     margin-bottom: 15px;
     padding-bottom: 10px;
+    padding-left: 1rem;
+    padding-right: 1rem;
     place-content: center;
+    color:white;
 }
 article:first-child{
     padding-top: 10px;
@@ -97,7 +102,8 @@ article h2{
     padding-bottom: 15px;
 }
 article p{
-    color:white;
+    text-align: justify;
+    max-width: 80%;
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -113,12 +119,13 @@ aside{
     @media (width >= 64rem) {
         padding: 15px;
         min-height: 350px;
-        width: calc(20% - 30px);
+        width: calc(35% - 15px);
         order: 1;
     }
     
 }
 aside h2{
+    background-color: navy;
     margin-top: 15px;
     margin-bottom: 15px;
     color: white;
@@ -128,9 +135,20 @@ aside h2{
     -1px  1px 0 #000,
      1px  1px 0 #000;
 }
+aside p{
+    padding-left: 1rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: white;
+    text-shadow: 
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+}
 aside ul{
     display: grid;
-    padding-left:1rem;
+    padding-left:2rem;
     padding-right:1rem;
 }
 aside li{
@@ -138,7 +156,6 @@ aside li{
     margin-top: 5px;
     margin-bottom: 5px;
     color: black;
-    display: inline-block;
     text-align: left;
     text-decoration: none;
     padding: 5px 10px;
@@ -146,6 +163,14 @@ aside li{
     background-color: #ddd;
 }
 video{
+    @media (width >= 48rem) {
+        width: 640;
+        height: 480;
+    }
+}
+image{
+    width: 320;
+    height: 260;
     @media (width >= 48rem) {
         width: 640;
         height: 480;

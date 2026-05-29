@@ -6,3 +6,4 @@ use CodeIgniter\Router\RouteCollection;
 $routes->get('/', 'Home::index');
 $routes->get('/fetchcontent','Home::allcontent');
 $routes->get('/getresource/(:num)', 'Home::getresource/$1');
+$routes->get('/contentbylevel/(:num)', 'Home::contentbylevel/$1');

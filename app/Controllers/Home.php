@@ -24,10 +24,17 @@ class Home extends BaseController
             $resourceList=$this->apifetched["levels"][$level]["lections"][$lection]["resources"];
             foreach($resourceList as $resource){
                 if($resource["id"]==$resourceId){
-                    return $this->response->setJSON($resource);
+                    return view('components/resourcecontent',$resource);
                 }
             }
         }
         
+    }
+    public function contentbyLevel($level){
+        if($level==0 || $level > sizeof($this->apifetched["levels"])){
+            return $this->response->setJSON(array("error" => "nivel no valido"));
+        }
+            $levelLections=$this->apifetched["levels"][$level-1];
+            return view('components/levelcontent',$levelLections);
     }
 }
