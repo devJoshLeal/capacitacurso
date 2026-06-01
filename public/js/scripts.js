@@ -17,9 +17,12 @@ function getContentLevel(level,keepresource=false) {
             if(!keepresource){
                 url.searchParams.delete('lection');
                 url.searchParams.delete('resource');
+                $('html, body').animate({
+                    scrollTop: $('#levelcontent').offset().top
+                }, 500);
             }
             window.history.pushState({}, '', url);
-            $("#levelcontent").html(result)
+            $("#levelcontent").html(result);
         }
     });
 }
@@ -33,6 +36,9 @@ function loadResource(resource,level,lection){
             url.searchParams.set('lection', lection);
             window.history.pushState({}, '', url);
             $("#resourcecontent").html(result)
+            $('html, body').animate({
+                scrollTop: $('#resourcecontent').offset().top
+            }, 500);
         }
     });
 }
