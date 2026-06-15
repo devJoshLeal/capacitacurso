@@ -22,8 +22,8 @@ class Home extends BaseController
         $lection= isset($requesting["lection"]) ? $requesting["lection"]-1 : null ;
         if(isset($level)&&isset($lection)){
             $resourceList=$this->apifetched["levels"][$level]["lections"][$lection]["resources"];
-            foreach($resourceList as $resource){
-                if($resource["id"]==$resourceId){
+            foreach($resourceList as $resource){ 
+                if($resource["id"]==$resourceId){ // Una vez encuentra el resource solicitado, lo plasma en su view
                     return view('components/resourcecontent',$resource);
                 }
             }

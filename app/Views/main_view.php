@@ -26,8 +26,7 @@
                     </div>
                     <img id="article_image" src="<?php echo($imageUrl) ?>">
                     <video controls>
-                    <source src="movie.mp4" type="video/mp4">
-                    <source src="movie.ogg" type="video/ogg">
+                    <source src="<?php echo($video["urlVideo540p"]) ?>" type="video/mp4">
                     Your browser does not support the video tag.
                     </video>
                     <pre id="article_pre"></pre>
