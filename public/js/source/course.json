@@ -1,0 +1,895 @@
+{
+    "id": 100875,
+    "name": "Crecer juntos (Docentes)",
+    "description": "<p>¡Bienvenido!</p>\r\n<p>Desarrolla capacidades de cuidado en los adultos responsables de la crianza de niños pequeños para promover su desarrollo saludable en todas las dimensiones de su vida.</p>",
+    "imageUrl": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/coursesImages/a87e4d0b-bebc-4c73-bb1a-aaebd709343a.png",
+    "sector": {
+        "id": 83,
+        "name": "Docentes",
+        "colorTheme": "#EE099E"
+    },
+    "video": {
+        "id": 19677,
+        "name": "Introducción",
+        "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177390764.mp4",
+        "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177390764.mp4",
+        "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177390764.mp4",
+        "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177390764.mp4",
+        "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177390764.mp4",
+        "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177390764.mp4"
+    },
+    "levels": [
+        {
+            "id": 101521,
+            "name": "Nivel",
+            "order": 1,
+            "lections": [
+                {
+                    "id": 103298,
+                    "name": "Lección",
+                    "order": 1,
+                    "resources": [
+                        {
+                            "id": 117936,
+                            "resourceTypeId": 3,
+                            "name": "Modelo ecológico",
+                            "order": 1,
+                            "description": "",
+                            "storage": {
+                                "id": 13514,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/6a8898d2-68b1-42f9-91ae-f4084c775cf1.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 117951,
+                            "resourceTypeId": 1,
+                            "name": "Factores biológicos y entorno familiar",
+                            "order": 2,
+                            "description": "<p>Comprende los elementos que conforman las raíces de cada persona, y cómo influyen en el desarrollo de las personas, los factores biológicos y el entorno familiar.</p>",
+                            "video": {
+                                "id": 19673,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177389994.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177389994.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177389994.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177389994.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177389994.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177389994.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 118033,
+                            "resourceTypeId": 1,
+                            "name": "Sistemas económico, político, social y cultural",
+                            "order": 3,
+                            "description": "<p>Comprende que cada persona es diferente, debido al impacto que tienen en su desarrollo los sistemas económico, político, social y cultural.</p>",
+                            "video": {
+                                "id": 19685,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177392256.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177392256.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177392256.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177392256.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177392256.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177392256.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 118036,
+                            "resourceTypeId": 2,
+                            "name": "Factores que influyen en la persona",
+                            "order": 4,
+                            "description": "",
+                            "storage": {
+                                "id": 13526,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/aa0573bc-0c7f-4b5a-ac9a-c70a1cf9b965.pdf"
+                            },
+                            "links": []
+                        }
+                    ],
+                    "tests": [
+                        {
+                            "id": "a7020207-3371-4ec4-8895-7e236f0fb6a8",
+                            "links": []
+                        }
+                    ],
+                    "links": []
+                },
+                {
+                    "id": 103299,
+                    "name": "Lección",
+                    "order": 2,
+                    "resources": [
+                        {
+                            "id": 118057,
+                            "resourceTypeId": 3,
+                            "name": "Origen de la teoría del vínculo",
+                            "order": 1,
+                            "description": "",
+                            "storage": {
+                                "id": 13515,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/b1f70306-b418-425f-b3b4-7771021f8e0f.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 118050,
+                            "resourceTypeId": 3,
+                            "name": "Importancia del vínculo afectivo",
+                            "order": 2,
+                            "description": "",
+                            "storage": {
+                                "id": 13512,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/90beaf98-d8a6-478e-978b-ff14a514fde9.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 117995,
+                            "resourceTypeId": 6,
+                            "name": "Formación del vínculo afectivo",
+                            "order": 3,
+                            "description": "<p>Conoce lo que significa ser sostén emocional y a las diferentes etapas que se necesitan desarrollar en la formación de un vínculo afectivo. &nbsp; &nbsp;</p>",
+                            "video": {
+                                "id": 19674,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177390191.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177390191.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177390191.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177390191.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177390191.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177390191.mp4"
+                            },
+                            "storageJobAid": {
+                                "id": 13517,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/280352e3-3600-4412-8a61-0da60a9f5732.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 118006,
+                            "resourceTypeId": 1,
+                            "name": "Capacidades parentales",
+                            "order": 4,
+                            "description": "<p>Conoce &nbsp;las cualidades de cuidado que te permiten responder con buenos tratos a las necesidades del niño, y así desarrollar tus capacidades parentales.</p>",
+                            "video": {
+                                "id": 19664,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177382873.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177382873.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177382873.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177382873.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177382873.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177382873.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 118022,
+                            "resourceTypeId": 1,
+                            "name": "Educar a partir de los buenos tratos",
+                            "order": 5,
+                            "description": "<p>Comprende que el desarrollo del niño se favorece cuando el adulto educa a partir de los buenos tratos.</p>",
+                            "video": {
+                                "id": 19668,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177384223.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177384223.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177384223.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177384223.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177384223.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177384223.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 118016,
+                            "resourceTypeId": 1,
+                            "name": "Acciones que amenazan el bienestar del niño y sus consecuencias",
+                            "order": 6,
+                            "description": "<p>Reconoce que el maltrato y la negligencia impiden la formación de un vínculo afectivo sano, e identifica las acciones que amenazan el bienestar del niño y sus consecuencias.</p>",
+                            "video": {
+                                "id": 19658,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177371002.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177371002.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177371002.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177371002.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177371002.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177371002.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 118013,
+                            "resourceTypeId": 3,
+                            "name": "Tipos de estrés",
+                            "order": 7,
+                            "description": "",
+                            "storage": {
+                                "id": 13521,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/29eefd66-bd82-4c6f-9609-174d9647a23e.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 117280,
+                            "resourceTypeId": 1,
+                            "name": "Resiliencia",
+                            "order": 8,
+                            "description": "<p>Reconoce el papel que desempeña el adulto como un factor importante para promover la adaptación del niño y su resiliencia. &nbsp; &nbsp;</p>",
+                            "video": {
+                                "id": 19684,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177392061.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177392061.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177392061.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177392061.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177392061.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177392061.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116059,
+                            "resourceTypeId": 2,
+                            "name": "Construcción del vínculo afectivo (niño - adulto)",
+                            "order": 9,
+                            "description": "",
+                            "storage": {
+                                "id": 13524,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/96b84c98-64bd-4375-89ce-3ccc006aa712.pdf"
+                            },
+                            "links": []
+                        }
+                    ],
+                    "tests": [
+                        {
+                            "id": "19507de6-a556-4ec2-be19-10679cc5476e",
+                            "links": []
+                        }
+                    ],
+                    "links": []
+                }
+            ],
+            "links": []
+        },
+        {
+            "id": 101520,
+            "name": "Nivel",
+            "order": 2,
+            "lections": [
+                {
+                    "id": 103300,
+                    "name": "Lección",
+                    "order": 1,
+                    "resources": [
+                        {
+                            "id": 116062,
+                            "resourceTypeId": 3,
+                            "name": "Qué es comunicar",
+                            "order": 1,
+                            "description": "",
+                            "storage": {
+                                "id": 13518,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/a66faf00-f5d4-4d77-b4d8-852e6dcdda47.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116065,
+                            "resourceTypeId": 1,
+                            "name": "Las emociones en la comunicación",
+                            "order": 2,
+                            "description": "<p>Reconoce que para el buen desarrollo de los niños es importante validar las emociones en la comunicación.</p>",
+                            "video": {
+                                "id": 19679,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177391086.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177391086.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177391086.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177391086.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177391086.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177391086.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116068,
+                            "resourceTypeId": 1,
+                            "name": "Habilidades de comunicación",
+                            "order": 3,
+                            "description": "<p>Mejora las interacciones con los niños a través del desarrollo de tus habilidades de comunicación.</p>",
+                            "video": {
+                                "id": 19675,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177390377.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177390377.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177390377.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177390377.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177390377.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177390377.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116071,
+                            "resourceTypeId": 1,
+                            "name": "Casos de comunicación",
+                            "order": 4,
+                            "description": "<p>Analiza situaciones cotidianas con los niños para poner en práctica tus habilidades en distintos casos de comunicación.</p>",
+                            "video": {
+                                "id": 19666,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177383739.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177383739.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177383739.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177383739.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177383739.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177383739.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116074,
+                            "resourceTypeId": 1,
+                            "name": "El efecto de elogiar en la comunicación",
+                            "order": 5,
+                            "description": "<p>Reconoce que generar un falso concepto de la persona, es el efecto de elogiar en la comunicación.</p>",
+                            "video": {
+                                "id": 19672,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177389701.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177389701.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177389701.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177389701.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177389701.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177389701.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116076,
+                            "resourceTypeId": 1,
+                            "name": "El efecto de criticar en la comunicación",
+                            "order": 6,
+                            "description": "<p>Reconoce que desalentar la autoestima del niño, es el efecto de criticar en la comunicación. &nbsp; &nbsp;</p>",
+                            "video": {
+                                "id": 19671,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177389540.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177389540.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177389540.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177389540.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177389540.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177389540.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116038,
+                            "resourceTypeId": 1,
+                            "name": "El efecto de alentar en la comunicación",
+                            "order": 7,
+                            "description": "<p>Reconoce que promover respeto hacia la dignidad del niño, es el efecto de alentar en la comunicación.</p>",
+                            "video": {
+                                "id": 19670,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177384685.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177384685.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177384685.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177384685.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177384685.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177384685.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116041,
+                            "resourceTypeId": 3,
+                            "name": "Distinción entre elogio, crítica y aliento",
+                            "order": 8,
+                            "description": "",
+                            "storage": {
+                                "id": 13511,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/46e62017-2b42-4377-9b5e-8bcccd349552.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116044,
+                            "resourceTypeId": 1,
+                            "name": "Casos de aliento",
+                            "order": 9,
+                            "description": "<p>Analiza situaciones cotidianas con los niños para poner en práctica tus habilidades en distintos casos de aliento.</p>",
+                            "video": {
+                                "id": 19665,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177383534.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177383534.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177383534.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177383534.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177383534.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177383534.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116047,
+                            "resourceTypeId": 2,
+                            "name": "Comunicación afectiva ",
+                            "order": 10,
+                            "description": "",
+                            "storage": {
+                                "id": 13523,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/fc3a37b8-7838-4689-b8d4-ba5d2139b39c.pdf"
+                            },
+                            "links": []
+                        }
+                    ],
+                    "tests": [
+                        {
+                            "id": "8fe064c3-0aa1-430a-b2ef-88f98b11bb38",
+                            "links": []
+                        }
+                    ],
+                    "links": []
+                },
+                {
+                    "id": 103301,
+                    "name": "Lección",
+                    "order": 2,
+                    "resources": [
+                        {
+                            "id": 116050,
+                            "resourceTypeId": 1,
+                            "name": "El cerebro y su relación con el comportamiento de los niños",
+                            "order": 1,
+                            "description": "<p>Modifica tus reacciones ante diversas conductas, al entender cómo funciona el cerebro y su relación con el comportamiento de los niños.</p>",
+                            "video": {
+                                "id": 19669,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177384431.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177384431.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177384431.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177384431.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177384431.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177384431.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116053,
+                            "resourceTypeId": 1,
+                            "name": "La clave es la conexión emocional",
+                            "order": 2,
+                            "description": "<p>Reconoce que para disminuir las reacciones emocionales de los niños y favorecer la integración de las partes del cerebro, la clave es la conección emocional.&nbsp;</p>",
+                            "video": {
+                                "id": 19678,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177390956.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177390956.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177390956.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177390956.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177390956.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177390956.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116077,
+                            "resourceTypeId": 1,
+                            "name": "Castigos o consecuencias",
+                            "order": 3,
+                            "description": "<p>Reconoce que se daña la integridad de los niños al emplear como prácticas de crianza los castigos o consecuencias. &nbsp; &nbsp;</p>",
+                            "video": {
+                                "id": 19667,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177383995.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177383995.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177383995.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177383995.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177383995.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177383995.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116101,
+                            "resourceTypeId": 1,
+                            "name": "Premios o recompensas",
+                            "order": 4,
+                            "description": "<p>Reconoce que se daña la autoestima de los niños al emplear como prácticas de crianza los premios o recompensas.</p>",
+                            "video": {
+                                "id": 19681,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177391554.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177391554.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177391554.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177391554.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177391554.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177391554.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116104,
+                            "resourceTypeId": 3,
+                            "name": "Acciones inadecuadas para establecer límites",
+                            "order": 5,
+                            "description": "",
+                            "storage": {
+                                "id": 13507,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/77dfab3e-6b8b-4f3e-8736-869891314633.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116107,
+                            "resourceTypeId": 1,
+                            "name": "Autoridad y disciplina",
+                            "order": 6,
+                            "description": "<p>Reconoce que el adulto en jerarquía es responsable de cuidar, proteger y ser referente del niño para actuar con autoridad y disciplina. &nbsp; &nbsp;</p>",
+                            "video": {
+                                "id": 19662,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177378583.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177378583.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177378583.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177378583.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177378583.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177378583.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116119,
+                            "resourceTypeId": 3,
+                            "name": "Pautas para establecer límites",
+                            "order": 7,
+                            "description": "",
+                            "storage": {
+                                "id": 13516,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/0bf667e8-2c00-4a6f-a73b-9824160923ef.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116113,
+                            "resourceTypeId": 2,
+                            "name": "Educando con amor generando límites",
+                            "order": 8,
+                            "description": "",
+                            "storage": {
+                                "id": 13525,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/f708d9b3-dd00-4619-8c77-81f3e0d69277.pdf"
+                            },
+                            "links": []
+                        }
+                    ],
+                    "tests": [
+                        {
+                            "id": "9cf02523-8b53-4e57-8717-6a09f922e976",
+                            "links": []
+                        }
+                    ],
+                    "links": []
+                },
+                {
+                    "id": 103302,
+                    "name": "Lección",
+                    "order": 3,
+                    "resources": [
+                        {
+                            "id": 116116,
+                            "resourceTypeId": 3,
+                            "name": "Aspectos del temperamento",
+                            "order": 1,
+                            "description": "",
+                            "storage": {
+                                "id": 13509,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/95a884db-f9a3-43d3-a3fa-6ac3db9d4bb1.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116100,
+                            "resourceTypeId": 1,
+                            "name": "Pautas para el adulto en relación al temperamento",
+                            "order": 2,
+                            "description": "<p>Conoce los aspectos del carácter y las &nbsp;pautas para el adulto en relación al temperamento. &nbsp; &nbsp;</p>",
+                            "video": {
+                                "id": 19680,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177391345.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177391345.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177391345.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177391345.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177391345.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177391345.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116097,
+                            "resourceTypeId": 3,
+                            "name": "Teoría del cambio",
+                            "order": 3,
+                            "description": "",
+                            "storage": {
+                                "id": 13520,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/c9cb3859-3b42-4e55-acc2-7a45c1cf73ae.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116082,
+                            "resourceTypeId": 1,
+                            "name": "¿Quién soy?",
+                            "order": 4,
+                            "description": "<p>Identifica aquellas experiencias que han afectado tu vida para definir los cambios necesarios que te lleven a un equilibrio personal y te permitan responder “quién soy?”.</p>",
+                            "video": {
+                                "id": 19683,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177391907.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177391907.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177391907.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177391907.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177391907.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177391907.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116085,
+                            "resourceTypeId": 2,
+                            "name": "Temperamento",
+                            "order": 5,
+                            "description": "",
+                            "storage": {
+                                "id": 13529,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/a47fd298-dedc-4cb1-8be3-f2f909349d7d.pdf"
+                            },
+                            "links": []
+                        }
+                    ],
+                    "tests": [
+                        {
+                            "id": "9b9569dc-e55f-43ff-a6f1-241650c7b2ed",
+                            "links": []
+                        }
+                    ],
+                    "links": []
+                },
+                {
+                    "id": 103303,
+                    "name": "Lección",
+                    "order": 4,
+                    "resources": [
+                        {
+                            "id": 116088,
+                            "resourceTypeId": 1,
+                            "name": "Cambio de paradigma",
+                            "order": 1,
+                            "description": "<p>Reflexiona sobre las creencias equivocadas relacionadas con la disciplina como el uso de castigos, consecuencias, premios o recompensas; para crear un cambio de paradigma. &nbsp; &nbsp;</p>",
+                            "video": {
+                                "id": 19663,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177382582.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177382582.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177382582.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177382582.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177382582.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177382582.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116091,
+                            "resourceTypeId": 3,
+                            "name": "Aprendizajes significativos",
+                            "order": 2,
+                            "description": "",
+                            "storage": {
+                                "id": 13508,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/3387ccf6-924c-426d-b553-88a16aa5723b.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116094,
+                            "resourceTypeId": 1,
+                            "name": "Análisis de casos en familia",
+                            "order": 3,
+                            "description": "<p>Aplica pautas de crianza basadas en la relación, la empatía y el respeto, producidas a partir del análisis de casos en familia.</p>",
+                            "video": {
+                                "id": 19659,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177371172.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177371172.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177371172.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177371172.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177371172.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177371172.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 116037,
+                            "resourceTypeId": 2,
+                            "name": "Nuevos paradigmas para educar",
+                            "order": 4,
+                            "description": "",
+                            "storage": {
+                                "id": 13528,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/56b2dd87-7c37-43f6-94a1-7eec7f69c332.pdf"
+                            },
+                            "links": []
+                        }
+                    ],
+                    "tests": [
+                        {
+                            "id": "ac1c6e6f-a557-406c-bf6c-000407e44dab",
+                            "links": []
+                        }
+                    ],
+                    "links": []
+                }
+            ],
+            "links": []
+        },
+        {
+            "id": 101519,
+            "name": "Nivel",
+            "order": 3,
+            "lections": [
+                {
+                    "id": 103304,
+                    "name": "Lección",
+                    "order": 1,
+                    "resources": [
+                        {
+                            "id": 115993,
+                            "resourceTypeId": 3,
+                            "name": "Inteligencia emocional y pautas para lograrla",
+                            "order": 1,
+                            "description": "",
+                            "storage": {
+                                "id": 13513,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/9be8733f-3c06-47df-a06c-822e7b6e676f.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 115977,
+                            "resourceTypeId": 1,
+                            "name": "Habilidades que conforman la inteligencia emocional",
+                            "order": 2,
+                            "description": "<p>Evalúa tus fortalezas y áreas de oportunidad a través de las habilidades que conforman la inteligencia emocional.</p>",
+                            "video": {
+                                "id": 19676,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177390621.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177390621.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177390621.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177390621.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177390621.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177390621.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 115980,
+                            "resourceTypeId": 1,
+                            "name": "Análisis de casos sobre inteligencia emocional",
+                            "order": 3,
+                            "description": "<p>Aplica tus habilidades al análisis de casos sobre inteligencia emocional.</p>",
+                            "video": {
+                                "id": 19660,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177371402.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177371402.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177371402.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177371402.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177371402.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177371402.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 115983,
+                            "resourceTypeId": 3,
+                            "name": "Redes de apoyo",
+                            "order": 4,
+                            "description": "",
+                            "storage": {
+                                "id": 13519,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/72f56d10-a039-4a4f-b98a-859c9a4d865b.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 115986,
+                            "resourceTypeId": 2,
+                            "name": "Inteligencia emocional en el adulto",
+                            "order": 5,
+                            "description": "",
+                            "storage": {
+                                "id": 13527,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/b683842d-af85-4b1d-88dd-0b281106a301.pdf"
+                            },
+                            "links": []
+                        }
+                    ],
+                    "tests": [
+                        {
+                            "id": "9703aa8e-1493-4ffa-93e0-5a93ff37b3f6",
+                            "links": []
+                        }
+                    ],
+                    "links": []
+                }
+            ],
+            "links": []
+        },
+        {
+            "id": 101501,
+            "name": "Nivel",
+            "order": 4,
+            "lections": [
+                {
+                    "id": 103251,
+                    "name": "Lección",
+                    "order": 1,
+                    "resources": [
+                        {
+                            "id": 115989,
+                            "resourceTypeId": 1,
+                            "name": "¿Qué es la integridad?",
+                            "order": 1,
+                            "description": "<p>Desarrolla una guía de comportamiento personal basada en qué es la integridad.</p>",
+                            "video": {
+                                "id": 19682,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177391772.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177391772.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177391772.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177391772.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177391772.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177391772.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 115974,
+                            "resourceTypeId": 3,
+                            "name": "Aspectos para lograr la integridad",
+                            "order": 2,
+                            "description": "",
+                            "storage": {
+                                "id": 13510,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/25b99f96-b1ba-4ba2-9e45-47efc2ea5373.pdf"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 115971,
+                            "resourceTypeId": 1,
+                            "name": "Autoconocimiento",
+                            "order": 3,
+                            "description": "<p>Analiza las prioridades de tu vida para lograr un equilibrio y tomar decisiones basadas en el autoconocimiento.</p>",
+                            "video": {
+                                "id": 19661,
+                                "urlVideo": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos/Crecer_juntos_-_Copia/1177371718.mp4",
+                                "urlVideo240p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos240p/Crecer_juntos_-_Copia/1177371718.mp4",
+                                "urlVideo360p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos360p/Crecer_juntos_-_Copia/1177371718.mp4",
+                                "urlVideo540p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos540p/Crecer_juntos_-_Copia/1177371718.mp4",
+                                "urlVideo720p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos720p/Crecer_juntos_-_Copia/1177371718.mp4",
+                                "urlVideo1080p": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/videos1080p/Crecer_juntos_-_Copia/1177371718.mp4"
+                            },
+                            "links": []
+                        },
+                        {
+                            "id": 115956,
+                            "resourceTypeId": 2,
+                            "name": "Cambiar para trascender",
+                            "order": 4,
+                            "description": "",
+                            "storage": {
+                                "id": 13522,
+                                "urlFile": "https://fsvc.capacitateparaelempleo.org/CapacitateFS/storage/Crecer_juntos_-_Copia/f931fa15-69fa-430d-ac3d-cb6a5456bb73.pdf"
+                            },
+                            "links": []
+                        }
+                    ],
+                    "tests": [
+                        {
+                            "id": "108b56f3-90c3-48b9-a125-9aedec725550",
+                            "links": []
+                        }
+                    ],
+                    "links": []
+                }
+            ],
+            "links": []
+        }
+    ],
+    "links": []
+}
